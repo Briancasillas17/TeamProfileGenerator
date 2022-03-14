@@ -1,16 +1,32 @@
 {
-    "name": "rpg",
+    "name": "team-profile-generator",
     "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "scripts": {
-        "test": "jest"
+    "description": "Team Profile Generator",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
     },
-    "keywords": [],
-    "author": "",
+    "scripts": {
+      "test": "jest --verbose test/*"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://https://github.com/Briancasillas17/TeamProfileGenerator"
+    },
+    "keywords": [
+      "OOP",
+      "Jest",
+      "Javascript",
+      "Node"
+    ],
+    "author": "Brian",
     "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Briancasillas17/TeamProfileGenerator/issues"
+    },
+    "homepage": "https://github.com/Briancasillas17/TeamProfileGenerator/blob/main/README.md",
     "dependencies": {
-        "inquirer": "^7.3.3",
-        "jest": "^24.9.0"
+      "inquirer": "^7.3.3",
+      "jest": "^24.9.0"
     }
-}
+  }
