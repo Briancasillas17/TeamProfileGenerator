@@ -43,3 +43,4 @@ node index.js
 
 4. Following along with the prompts in the terminal. 
 ## Preview
+![2022-03-15 (2)](https://user-images.githubusercontent.com/95777065/158698444-f4cdf1b6-0f24-41e5-8e9e-aa95727216df.png)
